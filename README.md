@@ -65,6 +65,8 @@ In the backend you will see, I tried to maintain quality of the code.
 
 https://developer.okta.com/blog/2018/11/20/build-crud-spring-and-vue
 
+https://vuejs.org/
+
 https://stackoverflow.com/
 
 https://github.com/   
