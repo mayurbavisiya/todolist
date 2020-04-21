@@ -17,16 +17,15 @@ Run Project
 	 * I have defined server port 9999. Because that port I have to mention in vue router to route the request.(If you change it, You will need to change it in http-common.js in /src folder inside vuesourcecode.
 
 2) Vue js app
-	   install vue and vue-router by follow ommand
-	   npm install vue 
-	   npm install vue-router
-	   npm install (This commad is for, If any package is missing it will add)
-  
-	   npm run serve (to start the application)
-	   It will show you the URL where to open. Default port is 8080
-	   
-	   You can run the app by http://localhost:8080/
+   install vue and vue-router by follow ommand
+	* npm install vue 
+	* npm install vue-router
+	* npm install (This commad is for, If any package is missing it will add)  
+	* npm run serve (to start the application)
    
+   It will show you the URL where to open. Default port is 8080
+   You can run the app by http://localhost:8080/
+
 
 Technolgy and version
 
