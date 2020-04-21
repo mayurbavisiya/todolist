@@ -30,14 +30,15 @@ Run Project
 Technolgy and version
 
 Backend:
-	Spring boot : 2.2.6.RELEASE
-	Java : 1.8
-	DB : postgresql 12
-	Deployment Server: Tomcat
+
+	* Spring boot : 2.2.6.RELEASE
+	* Java : 1.8
+	* DB : postgresql 12
+	* Deployment Server: Tomcat
 
 FrontEnd : 
-	Vue : 2.6
-	Runtime Enviornment : Node js
+	* Vue : 2.6
+	* Runtime Enviornment : Node js
 
 Note: Lombok is added in the pom.xml(Also created getter setter method) Because InelliJ has that plugin by default. But for the other IDE you need to install it manually. So to avoid that for now getter setter is created in Entities.
 
