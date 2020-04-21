@@ -1,4 +1,6 @@
+How to get project in your folder
 
+$ git clone https://github.com/mayurbavisiya/todolist.git
 
 
 Run Project
@@ -8,11 +10,11 @@ Run Project
    Either you can run, by simply deploying war(mvn clean install) file to deployment server.
    
    Note: Before running application make sure postgresql is running.
-		 Default port is 5432 if your DB is running in different port , you can change in application.properties.
-		 DB Username I have kept sylvain and no password.
-		 Create Empty database with the name task_manager. If you have different you can simply update in property file.
-		 No need to create tables it will create automatically, Dyring startup of the application.
-		 I have defined server port 9999. Because that port I have to mention in vue router to route the request.(If you change it, You will need to change it in http-common.js in /src folder inside vuesourcecode.
+	 * Default port is 5432 if your DB is running in different port , you can change in application.properties.
+	 * DB Username I have kept sylvain and no password.
+	 * Create Empty database with the name task_manager. If you have different you can simply update in property file.
+	 * No need to create tables it will create automatically, Dyring startup of the application.
+	 * I have defined server port 9999. Because that port I have to mention in vue router to route the request.(If you change it, You will need to change it in http-common.js in /src folder inside vuesourcecode.
 
 2) Vue js app
 	   install vue and vue-router by follow ommand
@@ -61,7 +63,9 @@ As I am beginner with the vue Js.Front end took my 75% of the time.But I got big
 But for the backend you will see, I tried to maintain quality of the code.
 
 https://developer.okta.com/blog/2018/11/20/build-crud-spring-and-vue
+
 https://stackoverflow.com/
+
 https://github.com/   
    
 		
