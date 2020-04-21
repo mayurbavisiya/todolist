@@ -58,8 +58,8 @@ Note:
 
 Reference:
 
-As I am beginner with the vue Js.Front end took my 75% of the time.But I got big help from the below reference.
-But for the backend you will see, I tried to maintain quality of the code.
+As I am beginner with the vue Js.Front end took my 75% of the time. I got big help from the below reference for vue.
+In the backend you will see, I tried to maintain quality of the code.
 
 https://developer.okta.com/blog/2018/11/20/build-crud-spring-and-vue
 
