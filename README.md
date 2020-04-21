@@ -36,7 +36,8 @@ Backend:
 	* DB : postgresql 12
 	* Deployment Server: Tomcat
 
-FrontEnd : 
+FrontEnd :
+ 
 	* Vue : 2.6
 	* Runtime Enviornment : Node js
 
